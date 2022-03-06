@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/>
 </p>
 
-### Tools
+### ⚙️ Tools
 <p>
   <img src="https://img.shields.io/badge/Xcode-000000?style=flat-square&logo=Xcode&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/>
