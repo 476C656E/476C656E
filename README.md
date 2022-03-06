@@ -26,6 +26,8 @@
 <p>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Xcode-F05032?style=flat-square&logo=Xcode&logoColor=white"/>
+
 </p>
 
 
