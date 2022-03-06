@@ -1,15 +1,22 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> Hi <𝚍𝚎𝚟𝚜/>, I'm Glen. </h1>
-<h3 align="center">iOS Developer from Korea <img src="https://icons.iconarchive.com/icons/wikipedia/flags/128/KR-South-Korea-Flag-icon.png" width="25 style="vertical-align: bottom"/>   </h3>
+<h1 align="center">
+    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> 
+    Hi <𝚍𝚎𝚟𝚜/>, I'm Glen.
+</h1>
+<h3 align="center">
+    iOS Developer from Korea 
+    <img src="https://icons.iconarchive.com/icons/wikipedia/flags/128/KR-South-Korea-Flag-icon.png" width="25 style="vertical-align: bottom"/>
+</h3>
 
 
 
 ### ✉️ About
 <p>
-    <a href="mailto:476c656e@gmail.com" target="_blank"><img src="https://img.shields.io/badge/476c656e@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  </p>
+    <a href="mailto:476c656e@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/476c656e@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+    </a>
+</p>
 
-### 🧑🏻‍💻 Tech Stack
-#### Platforms & Languages
+### 🧑🏻‍💻 Tech Stack #### [Platforms & Languages]
 <p>
   <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
@@ -18,7 +25,7 @@
   <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/>
 </p>
 
-#### Tools
+### Tools
 <p>
   <img src="https://img.shields.io/badge/Xcode-000000?style=flat-square&logo=Xcode&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/>
