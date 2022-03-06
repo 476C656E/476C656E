@@ -24,3 +24,6 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 </p>
+
+
+[![Glen's GitHub stats](https://github-readme-stats.vercel.app/api?username=476C656E&theme=nord&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
