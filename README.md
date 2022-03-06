@@ -26,4 +26,4 @@
 </p>
 
 
-[![Glen's GitHub stats](https://github-readme-stats.vercel.app/api?username=476C656E)](https://github.com/anuraghazra/github-readme-stats)
+[![Glen's GitHub stats](https://github-readme-stats.vercel.app/api?username=476C656E&theme=nord&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
