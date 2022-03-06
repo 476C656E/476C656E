@@ -10,7 +10,7 @@
   👋&nbsp; Hi there! I'm <b>iOS developer</b> using Android and iOS. 🚀<br/>
   I hope to develop every beautiful things. ✨ <br/><br/>
 </p>
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 
 ### 💪 Skills
 #### Platforms & Languages
