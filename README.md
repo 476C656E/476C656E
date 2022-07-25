@@ -1,9 +1,9 @@
 <h1 align="center">
     <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> 
-    Hi <𝚍𝚎𝚟𝚜/>, I'm Glen.
+    Hi ! I'm Glen Jeon
 </h1>
 <h3 align="center">
-    iOS Developer from Korea 
+    A Newbie iOS Developer from Korea 
     <img src="https://icons.iconarchive.com/icons/wikipedia/flags/128/KR-South-Korea-Flag-icon.png" width="25 style="vertical-align: bottom"/>
 </h3>
 
