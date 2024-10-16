@@ -13,5 +13,3 @@
         <img src="https://img.shields.io/badge/476c656e@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
     </a>
 </p>
-
-### 🧑🏻‍💻 Tech Stack [Platforms & Languages]
