@@ -1,9 +1,9 @@
 <h1 align="center">
     <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> 
-    Hi ! I'm Glen
+    Hello! I Love Chihuahua
 </h1>
 <h3 align="center">
-    iOS Developer from Korea 
+    Kotlin Developer from Korea 
     <img src="https://icons.iconarchive.com/icons/wikipedia/flags/128/KR-South-Korea-Flag-icon.png" width="25 style="vertical-align: bottom"/>
 </h3>
 
@@ -17,9 +17,3 @@
 </p>
 
 ### 🧑🏻‍💻 Tech Stack [Platforms & Languages]
-<p>
-  <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/>
-</p>
