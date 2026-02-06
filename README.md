@@ -1,15 +1,16 @@
-<h1 align="center">
-    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> 
-     Hi, there!
-</h1>    
+# Hi, there!
 
-## Kotlin, I'am useing it like this.
+From scattered fragments of thought, I value the process over the answer, and the journey over the result.
 
+<br>
 
+Developers design experiences with diverse technologies.  
+I create value with these.
 
-### ✉️ About
-<p>
-    <a href="mailto:476c656e@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/476c656e@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
-    </a>
-</p>
+`Kotlin` · `Spring Boot` · `MySQL` · `Redis` · `Kafka` · `AI`
+
+<br>
+
+Also, I love dogs and cats.
+
+[![Blog](https://img.shields.io/badge/Blog-333333?style=flat-square)](https://kyukyu.dev) [![Email](https://img.shields.io/badge/Email-333333?style=flat-square)](mailto:476c656e@gmail.com)
